@@ -1,0 +1,10 @@
+[
+  {
+    "title": "Cursed Timer",
+    "category": "Web Application",
+    "techStack": ["HTML5", "CSS3", "JavaScript"],
+    "description": "A haunting Pomodoro timer and task manager wrapped in vintage dark horror aesthetics. Built with zero account dependencies.",
+    "demoUrl": "https://cryptic-socket.github.io/cursed-timer/",
+    "repoUrl": "https://github.com/cryptic-socket/cursed-timer"
+  }
+]
